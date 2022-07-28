@@ -1,0 +1,16 @@
+@media only screen and (max-width: 688px) {
+    .course_sec{
+        flex-direction: column;
+        width: 100%;
+    }
+    .course_sec img{
+        height: 224px;
+        width: 335px;
+        margin-left: 50px;
+    }
+}
+@media only screen and (max-width: 1195px) {
+        #company{
+            display: none;
+        }
+}   
